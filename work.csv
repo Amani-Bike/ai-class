@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,StockQuantity
+P001,Wireless Headphones,Electronics,89.99,45
+P002,Cotton T-Shirt,Clothing,19.95,120
+P003,Bluetooth Speaker,Electronics,45.50,30
+P004,Stainless Steel Water Bottle,Home & Kitchen,22.75,85
+P005,Python Programming Book,Books,39.99,25
+P006,Running Shoes,Clothing,65.00,60
+P007,Smart Watch,Electronics,149.99,15
+P008,Ceramic Dinner Set,Home & Kitchen,79.95,40
+P009,Yoga Mat,Sports & Fitness,29.50,75
+P010,Wireless Mouse,Electronics,24.99,90
+P011,Novel - Mystery Genre,Books,14.95,50
+P012,Men's Dress Shirt,Clothing,34.99,110
+P013,Air Fryer,Home & Kitchen,99.00,20
+P014,Noise-Canceling Earbuds,Electronics,129.95,35
+P015,Graphic T-Shirt,Clothing,22.50,150
+P016,Cookbook - Healthy Recipes,Books,18.50,65
+P017,Desk Lamp,Home & Kitchen,27.30,80
+P018,Fitness Tracker,Sports & Fitness,49.95,45
+P019,Jeans,Clothing,49.99,95
+P020,External Hard Drive,Electronics,89.00,25
